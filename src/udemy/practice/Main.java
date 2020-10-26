@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        SimpleCalculator test = new SimpleCalculator();
+        SimpleCalc test = new SimpleCalc();
 
         test.setFirstNumber(0);
         test.setSecondNumber(1.25);
